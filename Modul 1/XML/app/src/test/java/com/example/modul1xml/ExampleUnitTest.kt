@@ -1,4 +1,4 @@
-package com.example.prakmodul1
+package com.example.modul1xml
 
 import org.junit.Test
 

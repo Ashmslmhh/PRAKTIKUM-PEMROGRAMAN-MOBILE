@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DiceRoller"
+rootProject.name = "XML"
 include(":app")
+ 

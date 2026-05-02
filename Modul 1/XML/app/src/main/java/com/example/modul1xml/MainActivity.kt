@@ -1,4 +1,4 @@
-package com.example.prakmodul1
+package com.example.modul1xml
 
 import android.os.Bundle
 import android.widget.Button
@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 class XmlActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_xml)
+        setContentView(R.layout.activity_main)
 
         val dice1 = findViewById<ImageView>(R.id.imageViewDice1)
         val dice2 = findViewById<ImageView>(R.id.imageViewDice2)
